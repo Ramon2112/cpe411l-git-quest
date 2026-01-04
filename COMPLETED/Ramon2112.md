@@ -5,10 +5,8 @@
 **GitHub Username:Ramon2112 **  
 
 ## Final Code Word
-SUNSET-19-FOX-7
 
-**Code Word:**  
-
+**Code Word: SUNSET-19-FOX-7 **  
 ## Evidence
 2ea96a8 (origin/main, origin/HEAD) Level 9: resolved merge conflict
 * 98edc3e Student: changed hallway sign
